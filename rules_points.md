@@ -32,7 +32,7 @@ I'd worry more about that ugly 1.33 value if I knew these points would change as
 
 ## Example
 Suppose you have a party of 4 adventurers at level 5 each. If you wanted to plan a Tough encounter, 
-you have a budget of 2 points per character, for a total of 8 points. This means you could have them 
+you would have a budget of 2 points per character, for a total of 8 points. This means you could have them 
 encounter any of the following:
   * A single CR 7 creature (party level 5 + 2)
   * Two CR 5 enemies
