@@ -19,28 +19,9 @@ Very roughly speaking, each CP represents about a 10% resource loss for a single
 | Dangerous | 7 |
 | Deadly | 10 |
 
-
-### Level 1 Encounter Building
-| Monster CR | CPs |
-| ---------- | --- |
-| 1/8 | 0.5 |
-| 1/4 | 1 |
-| 1/2 | 3 |
-| 1 | 8 |
-| 2 | 16 |
-| 3 | 32 |
-| 4 | 64 |
-
-### Level 2 Encounter Building
-| Monster CR | CPs |
-| ---------- | --- |
-| 1/4 | 0.5 |
-| 1/2 | 2 |
-| 1 | 4 |
-| 2 | 8 |
-| 3 | 16 |
-| 4 | 32 |
-| 5 | 50 |
+### Managing the Action Economy
+In theory, you could jam an encounter with 10 one point creatures per character, but that encounter runs in one of two ways. If the party has access to area of effect spells, it's an easy win for them. If not, the fight becomes a long, grueling slog as you burn through a 10:1 action advantage.
+As a baseline, avoid using monsters that have move total actions per round greater than three times the number of players. In my games, I try to avoid doubling up the party's actions unless I'm familiar enough with the characters that I know it won't be a long slog.
 
 ## Thoughts and Observations
 This approach requires more overhead, as we have many tables instead of a general rubric. Given that not all levels are created equal, the delta in power represented by leveling requires this more exacting approach. I think the benefits in scaling are worth the greater width of content.
