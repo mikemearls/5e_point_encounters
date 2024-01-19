@@ -9,7 +9,7 @@ Each level of a 5e-based game has a separate table that lists:
 As a starting point, the DM uses a CP budget based on the difficulty of the encounter. The CP budget varies based on the type of session, such as a single, massive battle, or a series of smaller battles as the characters navigate a dungeon.
 To start with, here is a generic set of point budgets based on the encounter guidelines from the SRD.
 
-Very roughly speaking, each CP per character represents about a 10% resource loss for the party. Keep that in mind as you look at the various CP costs at differnet levels. Part of the challenge of using CR is that it provides a one-size-fits-all solution to a framework that is much more variable than CR's seeming consistency indicates.
+Very roughly speaking, each CP represents about a 10% resource loss for a single character. Keep that in mind as you look at the various CP costs at differnet levels. Part of the challenge of using CR is that it provides a one-size-fits-all solution to a framework that is much more variable than CR's seeming consistency indicates.
 
 ### Generic CP Budget
 | Danger | CPs per Character |
