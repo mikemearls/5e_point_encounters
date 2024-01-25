@@ -1,5 +1,5 @@
 ## Point Range
-Each table captures creature point values with a floor of 1 and a ceiling of 40 (a deadly creature for a party of 4). The accuracy math can get wonky beyond those limits.
+Each table captures creature point values with a floor of 0.5 and a ceiling of 40 (a deadly creature for a party of 4). The math's accuracy can get wonky beyond those limits.
 
 ### Level 1 Encounter Building
 | Monster CR | CPs |
